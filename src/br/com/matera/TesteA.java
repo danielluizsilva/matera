@@ -1,8 +1,8 @@
 package br.com.matera;
 
-public class Teste {
+public class TesteA {
 
 	public static void main(String[] args) {
-		System.out.println("Hello word Daniel!!");
+		System.out.println("Hello word!!");
 	}
 }
